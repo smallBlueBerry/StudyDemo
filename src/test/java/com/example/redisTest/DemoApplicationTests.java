@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.redisTest;
 
 import org.junit.Assert;
 import org.junit.Test;

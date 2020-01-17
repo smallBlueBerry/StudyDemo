@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.redisTest;
 
 import javax.annotation.Resource;
 
