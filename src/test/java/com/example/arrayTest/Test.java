@@ -1,5 +1,11 @@
 package com.example.arrayTest;
 
+/**   
+* @Description: 删除相邻重复的数字
+* @version: v1.0.0
+* @author: linan
+* @date: Jan 17, 2020 2:36:29 PM 
+*/
 public class Test {
 	
 	public static void main(String[] args) {
